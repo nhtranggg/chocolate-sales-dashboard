@@ -23,7 +23,7 @@ This project models a star schema data warehouse (5 related tables: Sales, Produ
 ![Chocolate Sales Dashboard](Chocolate_Sales_Dashboard.png)
 
 ## Key Insights
-- New York leads store performance (~$0.8M revenue) — nearly double Berlin's output
+- New York leads store performance (~$0.8M revenue) — approximately 3x Berlin's output
 - Praline & White Chocolate drive the most profit despite not being top-revenue categories
 - No-discount transactions generate the vast majority of revenue — discounting isn't the main growth lever
 - Customer base is near-evenly split between Members (49.88%) and Non-members — loyalty program has room to grow
