@@ -14,7 +14,7 @@ This project models a star schema data warehouse (5 related tables: Sales, Produ
 
 ## Tools & Skills
 - **Power BI**: Star schema data modeling across 5 related tables
-- **DAX**: CALCULATE, DIVIDE, RANKX, custom YoY growth measures
+- **DAX**: CALCULATE, DIVIDE, custom YoY growth measures
 - **Power Query**: Data transformation and relationship management
 - **Data Storytelling**: Insight writing with business implications
 
