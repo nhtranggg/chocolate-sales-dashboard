@@ -20,7 +20,7 @@ This project models a star schema data warehouse (5 related tables: Sales, Produ
 
 ## Dashboard Preview
 
-![Chocolate Sales Dashboard](Chocolate%Sales%Dashboard.png)
+![Chocolate Sales Dashboard](Chocolate%20Sales%20Dashboard.png)
 
 ## Key Insights
 - **New York leads city performance at $0.78M**, roughly 3x Berlin's $0.26M, while Sydney, Toronto, and Melbourne form a closely-clustered mid-tier around $0.52M each — suggesting New York's outperformance may warrant a closer look at what's driving it (market size, store count, or local demand) to see if it's replicable elsewhere
